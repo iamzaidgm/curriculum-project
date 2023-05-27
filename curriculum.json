@@ -1,0 +1,42 @@
+{
+  "header": {
+    "name": "Zaid Joel González Mendoza",
+    "title": "Estudiante de Ingeniería en Ciencias de la Computación"
+  },
+  "contact": {
+    "phone": "614-268-10-65",
+    "email": "a353254@uach.mx",
+    "location": "Chihuahua"
+  },
+  "experience": [
+    {
+      "company": "Tacos y Montados Venzor",
+      "position": "Manejo del sistema de venta",
+      "dates": "15/09/2017 - Actual",
+      "description": "Manejo del equipo de computo"
+    },
+    {
+      "company": "Centro comunitario \"Quedate Amigo\"",
+      "position": "Soporte y mantenimiento de computo",
+      "dates": "01/10/2019 - 10/03/2020",
+      "description": "Servicio y manejo de equipos de computo"
+    }
+  ],
+  "education": [
+    {
+      "university": "Universidad Autónoma de Chihuahua",
+      "degree": "Ingeniero en Ciencias de la Computación",
+      "dates": "2020 - Actual"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Html",
+    "Css",
+    "Cisco Packet Tracer"
+  ],
+  "languages": [
+    "Español (Nativo)",
+    "Inglés (Intermedio)"
+  ]
+}
